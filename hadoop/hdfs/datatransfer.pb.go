@@ -6,7 +6,7 @@ package hadoop_hdfs
 import (
 	fmt "fmt"
 	proto "github.com/golang/protobuf/proto"
-	. "github.com/jaguarx/go-hadoop-proto.v3/hadoop/common"
+	. "github.com/jaguarx/go-hadoop-proto/hadoop/common"
 	math "math"
 )
 
